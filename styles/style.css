@@ -1,4 +1,4 @@
-p {
+p:hover {
   color: red;
   border: 1px solid black;
 }
